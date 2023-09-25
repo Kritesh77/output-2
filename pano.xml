@@ -18,7 +18,7 @@
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot pan="-9.18" url="{node2}" id="Point01" skinid="ht_node" description="Storage gate opens when you push the button" tilt="-1.13" target="" title="Cold Storage"/>
-      <hotspot pan="-102.07" url="{node41}" id="Point02" skinid="ht_node" description="" tilt="-2.32" target="" title="IMG_20230827_151822_00_032.insp"/>
+      <hotspot pan="-102.07" url="{node41}" id="Point02" skinid="ht_node" description="" tilt="-2.32" target="" title="Docking area"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" enabled="1" softedge="0" zoomin="0" blendtime="1" blendcolor="0x000000" zoomspeed="20" zoomout="0" zoomoutpause="1" zoomfov="20"/>
@@ -197,10 +197,10 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot pan="-171.89" url="{node41}" id="Point01" skinid="ht_node" description="" tilt="3.56" target="" title="IMG_20230827_151822_00_032.insp"/>
-      <hotspot pan="-153.03" url="{node41}" id="Point02" skinid="ht_node" description="" tilt="4.46" target="" title="IMG_20230827_151822_00_032.insp"/>
-      <hotspot pan="-188.02" url="{node41}" id="Point03" skinid="ht_node" description="" tilt="4.03" target="" title="IMG_20230827_151822_00_032.insp"/>
-      <hotspot pan="-275.38" url="{node10}" id="Point04" skinid="ht_node" description="" tilt="0.7" target="" title="IMG_20230827_171416_00_215.insp"/>
+      <hotspot pan="-172.08" url="{node41}" id="Point01" skinid="ht_node" description="" tilt="3.56" target="" title="Go inside"/>
+      <hotspot pan="-153.03" url="{node41}" id="Point02" skinid="ht_node" description="" tilt="4.46" target="" title="Go inside"/>
+      <hotspot pan="-188.02" url="{node41}" id="Point03" skinid="ht_node" description="" tilt="4.03" target="" title="Go inside"/>
+      <hotspot pan="-275.38" url="{node10}" id="Point04" skinid="ht_node" description="" tilt="0.7" target="" title="Main gate"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" enabled="1" softedge="0" zoomin="0" blendtime="1" blendcolor="0x000000" zoomspeed="20" zoomout="0" zoomoutpause="1" zoomfov="20"/>
@@ -225,7 +225,7 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot pan="-44.54" url="{node10}" id="Point01" skinid="ht_node" description="" tilt="1.18" target="" title="IMG_20230827_171416_00_215.insp"/>
+      <hotspot pan="-44.54" url="{node10}" id="Point01" skinid="ht_node" description="" tilt="1.18" target="" title="Main Gate"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" enabled="1" softedge="0" zoomin="0" blendtime="1" blendcolor="0x000000" zoomspeed="20" zoomout="0" zoomoutpause="1" zoomfov="20"/>
@@ -250,7 +250,7 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot pan="-26.61" url="{node8}" id="Point01" skinid="ht_node" description="" tilt="-0.99" target="" title="IMG_20230827_171803_00_221.insp"/>
+      <hotspot pan="-26.61" url="{node8}" id="Point01" skinid="ht_node" description="" tilt="-0.99" target="" title="Enter snowman"/>
       <hotspot pan="-244.56" url="{node11}" id="Point02" skinid="ht_node" description="" tilt="-3.86" target="" title="IMG_20230827_171258_00_212.insp"/>
     </hotspots>
     <media/>
@@ -276,7 +276,8 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot pan="-352.87" url="{node1}" id="Point01" skinid="ht_node" description="" tilt="-22.66" target="" title="IMG_20230827_163803_00_184.insp"/>
+      <hotspot pan="-352.87" url="{node1}" id="Point01" skinid="ht_node" description="" tilt="-22.66" target="" title="Open gate"/>
+      <hotspot pan="-274.8" url="{node41}" id="Point02" skinid="ht_node" description="" tilt="-10.39" target="" title="Docking area"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" enabled="1" softedge="0" zoomin="0" blendtime="1" blendcolor="0x000000" zoomspeed="20" zoomout="0" zoomoutpause="1" zoomfov="20"/>
@@ -327,8 +328,8 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot pan="-214.97" url="{node47}" id="Point01" skinid="ht_node" description="" tilt="-1.95" target="" title="IMG_20230827_173124_00_242.insp"/>
-      <hotspot pan="-32.81" url="{node44}" id="Point02" skinid="ht_node" description="" tilt="-2.65" target="" title="IMG_20230827_172510_00_230.insp"/>
+      <hotspot pan="-214.97" url="{node47}" id="Point01" skinid="ht_node" description="" tilt="-1.95" target="" title="Generator area"/>
+      <hotspot pan="-32.62" url="{node44}" id="Point02" skinid="ht_node" description="" tilt="-2.65" target="" title="Hall"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" enabled="1" softedge="0" zoomin="0" blendtime="1" blendcolor="0x000000" zoomspeed="20" zoomout="0" zoomoutpause="1" zoomfov="20"/>
@@ -353,7 +354,7 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot pan="-25.9" url="{node45}" id="Point01" skinid="ht_node" description="" tilt="-7.4" target="" title="IMG_20230827_172336_00_227.insp"/>
+      <hotspot pan="-25.9" url="{node45}" id="Point01" skinid="ht_node" description="" tilt="-7.4" target="" title="Office"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" enabled="1" softedge="0" zoomin="0" blendtime="1" blendcolor="0x000000" zoomspeed="20" zoomout="0" zoomoutpause="1" zoomfov="20"/>
@@ -378,8 +379,8 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot pan="-357.47" url="{node45}" id="Point01" skinid="ht_node" description="" tilt="-9.2" target="" title="IMG_20230827_172336_00_227.insp"/>
-      <hotspot pan="-92.43" url="{node42}" id="Point02" skinid="ht_node" description="" tilt="10.25" target="" title="IMG_20230827_172805_00_236.insp"/>
+      <hotspot pan="-357.47" url="{node45}" id="Point01" skinid="ht_node" description="" tilt="-9.2" target="" title="Office"/>
+      <hotspot pan="-92.43" url="{node42}" id="Point02" skinid="ht_node" description="" tilt="10.25" target="" title="Electrical area"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" enabled="1" softedge="0" zoomin="0" blendtime="1" blendcolor="0x000000" zoomspeed="20" zoomout="0" zoomoutpause="1" zoomfov="20"/>
@@ -404,9 +405,9 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot pan="-73.99" url="{node46}" id="Point01" skinid="ht_node" description="" tilt="-5.57" target="" title="IMG_20230827_172207_00_224.insp"/>
-      <hotspot pan="-314.31" url="{node43}" id="Point02" skinid="ht_node" description="" tilt="-15.2" target="" title="IMG_20230827_172626_00_233.insp"/>
-      <hotspot pan="-283.52" url="{node44}" id="Point03" skinid="ht_node" description="" tilt="-6.57" target="" title="IMG_20230827_172510_00_230.insp"/>
+      <hotspot pan="-73.99" url="{node46}" id="Point01" skinid="ht_node" description="" tilt="-5.57" target="" title="Reception"/>
+      <hotspot pan="-314.31" url="{node43}" id="Point02" skinid="ht_node" description="" tilt="-15.2" target="" title="Canteen"/>
+      <hotspot pan="-283.68" url="{node44}" id="Point03" skinid="ht_node" description="" tilt="-6.56" target="" title="Hall"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" enabled="1" softedge="0" zoomin="0" blendtime="1" blendcolor="0x000000" zoomspeed="20" zoomout="0" zoomoutpause="1" zoomfov="20"/>
@@ -431,8 +432,8 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot pan="-63.45" url="{node45}" id="Point01" skinid="ht_node" description="" tilt="-8.76" target="" title="IMG_20230827_172336_00_227.insp"/>
-      <hotspot pan="-140.86" url="{node41}" id="Point02" skinid="ht_node" description="" tilt="-14.39" target="" title="IMG_20230827_151822_00_032.insp"/>
+      <hotspot pan="-63.45" url="{node45}" id="Point01" skinid="ht_node" description="" tilt="-8.76" target="" title="Office"/>
+      <hotspot pan="-140.86" url="{node41}" id="Point02" skinid="ht_node" description="" tilt="-14.39" target="" title="Storage area"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" enabled="1" softedge="0" zoomin="0" blendtime="1" blendcolor="0x000000" zoomspeed="20" zoomout="0" zoomoutpause="1" zoomfov="20"/>
@@ -457,7 +458,7 @@
     <hotspots height="20" width="180" wordwrap="1">
       <label bordercolor="0x000000" textcolor="0x000000" height="20" enabled="1" background="1" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" border="1" wordwrap="1" borderalpha="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot pan="-34.63" url="{node42}" id="Point01" skinid="ht_node" description="" tilt="3.12" target="" title="IMG_20230827_172805_00_236.insp"/>
+      <hotspot pan="-34.63" url="{node42}" id="Point01" skinid="ht_node" description="" tilt="3.12" target="" title="Electrical Area"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" enabled="1" softedge="0" zoomin="0" blendtime="1" blendcolor="0x000000" zoomspeed="20" zoomout="0" zoomoutpause="1" zoomfov="20"/>
